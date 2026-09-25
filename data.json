@@ -1,0 +1,31 @@
+{
+    "avatar": "",
+    "name": "Name",
+    "nickname": "Software Engineer",
+    "labels": [
+        {"name": "Email", "value": "email@example.com"},
+        {"name": "Homepage", "value": "example.com"},
+        {"name": "Education", "value": "Doctoral student"},
+        {"name": "Degree", "value": "Master"}
+    ],
+    "description": "description",
+    "experience": [
+        {
+            "unit": "University",
+            "time": "2020.07 - 2024.07",
+            "brief": "Completed full-time undergraduate studies in Software Engineering.",
+            "details": [
+                "..."
+            ]
+        },
+        {
+            "unit": "Company",
+            "time": "2024.08 - Present",
+            "brief": "Served as a Full-Stack AI Agent Development Engineer.",
+            "details": [
+                "...",
+                "..."
+            ]
+        }
+    ]
+}
